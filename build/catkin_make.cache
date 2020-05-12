@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/pele/Documents/repos/Sky_Blast/devel -DCMAKE_INSTALL_PREFIX=/home/pele/Documents/repos/Sky_Blast/install -G Unix Makefiles
